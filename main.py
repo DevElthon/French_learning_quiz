@@ -1,6 +1,4 @@
 from tkinter import *
-
-import pandas
 import pandas as pd
 import random as rand
 
